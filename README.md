@@ -7,6 +7,7 @@ The fuel cell controller serves as the brain of the fuel cell system, orchestrat
 In this era of increasing energy demands and growing environmental concerns, developing advanced fuel cell controllers is essential for accelerating the adoption of fuel cell technology. This introduction sets the stage to explore the key functions, challenges, and innovations in fuel cell control systems, highlighting their significance in achieving a sustainable and clean energy future.
 
 
+# Useful Links
 
-
-
+https://www.amebaiot.com/en/amebapro2-amb82-mini-arduino-getting-started/
+https://www.youtube.com/channel/UCplqTUNYZEoIKs0nAWf9DCQ
